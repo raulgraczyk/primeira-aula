@@ -4,6 +4,9 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>primeira_aula</RootNamespace>
+    <startupObject>primeira_lista.Program</startupObject>
+    <!-- <startupObject>listaarray.Arrays</startupObject> -->
+    <!-- <startupObject>listaarray2.Arrays2</startupObject> -->
   </PropertyGroup>
 
 </Project>
